@@ -1,6 +1,8 @@
 # Curso de introdução a C++ em jogos
 
-##Curso de introdução a C++ para a criação de jogos
+<h2>
+  Curso de introdução a C++ para a criação de jogos
+</h2>
 
 <h3>
   Integrantes:
